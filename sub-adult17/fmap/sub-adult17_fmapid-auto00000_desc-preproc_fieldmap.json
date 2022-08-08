@@ -1,0 +1,19 @@
+{
+  "AnatomicalReference": "sub-adult17_fmapid-auto00000_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-adult17_fmapid-auto00000_desc-coeff0_fieldmap.nii.gz",
+    "sub-adult17_fmapid-auto00000_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "func/sub-adult17_task-autobio_bold.nii.gz",
+    "func/sub-adult17_task-episodic_bold.nii.gz",
+    "func/sub-adult17_task-semantic_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001748-fmriprep/sourcedata/raw/sub-adult17/func/sub-adult17_task-autobio_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001748-fmriprep/sourcedata/raw/sub-adult17/func/sub-adult17_task-episodic_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001748-fmriprep/sourcedata/raw/sub-adult17/func/sub-adult17_task-semantic_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
